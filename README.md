@@ -60,5 +60,6 @@ score = (Attack × type_multiplier) − opponent's Defense
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/pokemon-vae-generator.git
-   cd pokemon-vae-generator
+   git clone https://github.com/your-username/Pokemon-Stat-Generation-using-VAE.git
+   cd Pokemon-Stat-Generation-using-VAE
+```
