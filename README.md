@@ -55,11 +55,3 @@ score = (Attack × type_multiplier) − opponent's Defense
   - Outliers may point to overpowered or underpowered stat generations
 
 ---
-
-## 🚀 How to Run (Google Colab Recommended)
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Annas-Furquan-Pasha/Pokemon-Stat-Generation-using-VAE.git
-   cd Pokemon-Stat-Generation-using-VAE
-```
